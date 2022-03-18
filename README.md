@@ -1,2 +1,2 @@
 # .github
-Welcome to Crystal Data!
+Welcome to crystal-data!
